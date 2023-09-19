@@ -3,7 +3,7 @@ Title : Module de fonction qui est utilisé avec le main (main.py)
 
 Version : 1.0 
 
-Author : Aymeric 
+Author : Elias De Bernardo 
 
 Date : 16/09/2023 
 
