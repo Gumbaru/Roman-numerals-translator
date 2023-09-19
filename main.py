@@ -3,7 +3,7 @@ Title : Programme de division eucledienne avec chiffre romain
 
 Version : 1.0 
 
-Author : Aymeric 
+Author : Elias De Bernardo
 
 Date : 16/09/2023 
 
